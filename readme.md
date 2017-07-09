@@ -125,8 +125,7 @@ const defaults = {
 
 ## See also
 
-- [FPTF](https://github.com/public-transport/friendly-public-transport-format)
-- "Friendly public transport format"
+- [FPTF](https://github.com/public-transport/friendly-public-transport-format) - "Friendly public transport format"
 [FPTF-modules](https://github.com/public-transport/friendly-public-transport-format/blob/master/modules.md) - modules that also use FPTF
 
 ## Contributing
