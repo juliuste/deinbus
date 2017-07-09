@@ -116,10 +116,10 @@ Returns a [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Refe
 
 ```js
 const defaults = {
-	passengers: {
+    passengers: {
         adults: 1,
         children: 0
-	}
+    }
 }
 ```
 
