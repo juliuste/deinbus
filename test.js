@@ -15,7 +15,7 @@ tape('deinbus.stations', (t) => {
 		const berlin = stations.filter((s) => s.id === 'BEZ')[0]
 		t.ok(berlin.type === 'station', 'station type')
 		t.ok(berlin.id === 'BEZ', 'station id')
-		t.ok(berlin.name === 'Berlin (ZOB)', 'station name')
+		t.ok(berlin.name === 'Berlin', 'station name')
 		t.ok(berlin.destinations.length > 5, 'station destinations length')
 		t.ok(!!berlin.destinations[0], 'station destination')
 	})
@@ -45,7 +45,6 @@ tape('deinbus.journeys', (t) => {
 		t.ok(isBool(journeys[0].price.bookable), 'journey price bookable')
 		t.ok(isDate(journeys[0].price.bookableUntil), 'journey price bookableUntil')
 		t.ok(isBool(journeys[0].price.soldOut), 'journey price soldOut')
-		console.log(journeys[0].price.tickets[0].amount)
 		t.ok(journeys[0].price.tickets[0].price.amount > 0, 'journey price ticket price amount')
 		t.ok(journeys[0].price.tickets[0].price.currency === 'EUR', 'journey price ticket price currency')
 
