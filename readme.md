@@ -1,7 +1,5 @@
 # deinbus
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/juliuste/deinbus.svg)](https://greenkeeper.io/)
-
 JavaScript client for the [deinbus](https://www.deinbus.de) coach travel API. Complies with the [friendly public transport format](https://github.com/public-transport/friendly-public-transport-format) (`FPTF 0.0`)
 
 [![npm version](https://img.shields.io/npm/v/deinbus.svg)](https://www.npmjs.com/package/deinbus)
