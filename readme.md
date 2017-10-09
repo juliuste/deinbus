@@ -1,6 +1,6 @@
 # deinbus
 
-JavaScript client for the [deinbus](https://www.deinbus.de) coach travel API. Complies with the [friendly public transport format](https://github.com/public-transport/friendly-public-transport-format) (`FPTF 0.0`)
+JavaScript client for the [deinbus](https://www.deinbus.de) coach travel API. Complies with the [friendly public transport format](https://github.com/public-transport/friendly-public-transport-format) (`FPTF 0.0`). Inofficial, using an endpoint by *Deinbus*. Ask them for permission before using this module in production.
 
 [![npm version](https://img.shields.io/npm/v/deinbus.svg)](https://www.npmjs.com/package/deinbus)
 [![Build Status](https://travis-ci.org/juliuste/deinbus.svg?branch=master)](https://travis-ci.org/juliuste/deinbus)
