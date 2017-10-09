@@ -2,7 +2,17 @@
 	"name": "deinbus",
 	"description": "Client for the deinbus API",
 	"version": "0.0.0",
-	"keywords": [],
+	"keywords": [
+		"bus",
+		"coach",
+		"travel",
+		"transport",
+		"deinbus",
+		"germany",
+		"deutschland",
+		"api",
+		"client"
+	],
 	"author": "Julius Tens <mail@juliustens.de>",
 	"homepage": "https://github.com/juliuste/deinbus",
 	"repository": "juliuste/deinbus",
