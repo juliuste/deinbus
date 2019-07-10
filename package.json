@@ -23,7 +23,7 @@
 		"lib/*"
 	],
 	"dependencies": {
-		"lodash.merge": "^4.6.0",
+		"lodash.merge": "4.6.1",
 		"moment-timezone": "^0.5.13",
 		"node-fetch": "^1.7.1"
 	},
